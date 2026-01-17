@@ -1,4 +1,4 @@
-# Site-Tempfy
+<p align='center'># Site-Tempfy </p>
 Este é o site desenvolvido por mim e minha equipe como nossa Situação de Aprendizagem (S.A) no teceiro ano Ensino Médio. Abaixo explicarei o que é a Tempfy, quais funcionalidades ele possui e com quais tecnologias ele foi desenvolvido.
 
 ## O que é a Tempfy?
