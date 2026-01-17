@@ -12,4 +12,4 @@ O usuário pode cadastrar uma conta e fazer login nela (não é necessário ter 
 <img src="/imagens-readme/Login-Tempfy.png" width='100%' />
 
 O usuário pode comprar os monitores após escolher a quantidade que deseja comprar e a forma de pagamento.
-<img src="/imagens-readme/Compra-Produtos" width='100%' />
+<img src="/imagens-readme/Compra-Produtos.png" width='100%' />
