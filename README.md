@@ -17,6 +17,8 @@ O usuário pode comprar os monitores após escolher a quantidade que deseja comp
 <br />
 <br />
 <img src="/imagens-readme/Compra-Produtos.png" width='100%' />
-<h2 align='center'></h2>
+<h2 align='center'>💻Tecnologias utilizadas💻</h2>
+O site foi desenvolvido usando HTML5, CSS, JavaScript, Node.js e PgAdmin4.
+
 <h2 align='center'>❗IMPORTANTE❗</h2>
-Para que o sistema funcione corretamente é preciso que você acesse o arquivo db.js e 
+Para que o sistema funcione corretamente é preciso que você acesse o arquivo db.js e insira o nome da database onde o sistema irá armazenar as informações e a senha de seu PgAdmin (respectivamente as linhas 6 e 7 do arquivo).  
