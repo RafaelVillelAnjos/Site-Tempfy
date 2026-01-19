@@ -8,8 +8,15 @@ O site tem como finalidade apresentar a empresa e seus serviços, possibilitar a
 
 <h2 align='center'>❄️Quais são suas principais funcionalidades?❄️</h2>
 O usuário pode cadastrar uma conta e fazer login nela (não é necessário ter uma conta para acessar o site, mas é necessário para efetuar a compra de algum produto).
+<br />
+<br />
 <img src="/imagens-readme/Cadastro-Tempfy.png" width='100%' />
 <img src="/imagens-readme/Login-Tempfy.png" width='100%' />
 
 O usuário pode comprar os monitores após escolher a quantidade que deseja comprar e a forma de pagamento.
+<br />
+<br />
 <img src="/imagens-readme/Compra-Produtos.png" width='100%' />
+<h2 align='center'></h2>
+<h2 align='center'>❗IMPORTANTE❗</h2>
+Para que o sistema funcione corretamente é preciso que você acesse o arquivo db.js e 
